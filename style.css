@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#wrapper{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container{
+    height:88vw;
+    width:1000px;
+    margin-left: 13%;
+    /* box-shadow:.5px .5px .5px .5px #eae8e8 ; */
+    margin-top: 0;
+    /* box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px; */
+    /* box-shadow: rgba(0, 0, 0, 0.06) 0px 2px  0px inset; */
+    
+    margin-bottom: 30px;
+
+    
+}
+.card{
+    width:30%;
+    height:15%;
+    margin-right:2%;
+    margin-top:2%;
+    
+}
+.container .card .img-section{
+    width:100%;
+    height:200px;
+    background-color:#d4d1d1
+}
+#project{
+    font-size: 20px;
+    color:blue;
+    /* margin:10px 0; */
+    margin-top:15px;
+    margin-bottom: 10px;
+    /* font-family: Carrois Gothic; */
+    /* font-family: Nanum Gothic; */
+    /* font-family: Carrois Gothic; */
+    
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    
+}
+
+#above-img{
+    font-size:70px;
+    display:flex;
+     justify-content: center; 
+     text-align: center;
+     padding:50px;
+  
+}
+.container .wrap{
+    display: flex;
+    margin-bottom: 40px;
+    margin-left: 5%;
+}
+.page-head{
+    padding:10px;
+    /* margin-left:200px; */
+   margin-left: 200px;
+    width:80%;
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: Nanum Gothic;
+    margin-bottom: 10px
+
+}
+.img-section img{
+    height:100%;
+    width:100%;
+    object-fit: cover;
+}
+/* .navbar{
+       display:flex;
+    padding-left: 10%;
+    background-color: black;
+    height:10%;
+ 
+}
+.navlink, .navlink1{
+    margin-right: 5%;
+    text-decoration: none;
+} */
+#secondary{
+    font-size: 15px;
+    margin-left: 10px;
+    
+}
+#ruler{
+    width:90%;
+    margin-left:50px;
+}
+.foot{
+    margin-left: 215px;
+    margin-bottom: 10px;
+}
+
+    .ruler {
+        width: 89%;
+        height: .5px; 
+        background-color: #d4cfcf; 
+        margin: 10px 0; 
+        margin-left: 49px;
+      }

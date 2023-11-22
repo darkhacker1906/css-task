@@ -1,0 +1,23 @@
+.navbar{
+    background-color: black;
+    color:white;
+    margin-bottom: 10px;
+    
+  
+}
+.navlist{
+    display:flex;
+    list-style: none;
+    padding:10px;
+    margin-left:180px;
+}
+.navlist-items{
+    margin:20px;
+}
+.navlink{
+    text-decoration: none;
+    color:white;
+}
+.foot{
+    margin-bottom: 40px;
+}
